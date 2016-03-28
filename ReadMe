@@ -1,0 +1,22 @@
+I am trying to gain an understanding of the Page Object Model (POM) for test case creation, looking for advice and critique
+
+Using minitest as the test runner (comes with ruby install)
+Test Case Workflow
+
+Launch
+Login
+Navigate to Admin Page
+Navigate to JS Popups Page
+Navigate to FAQ Page
+Navigate to Home Page
+Complete and Submit Form
+Verify form Submission
+Logout
+
+To Run:
+
+# POM EXAMPLE
+rake pom
+
+# MODULE EXAMPLE
+rake module
